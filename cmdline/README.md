@@ -9,5 +9,5 @@ byte7:
 byte8:
 byte9:I found the filepath and copied it at /temp where I had access. Then with cat I found the code
 byte10:I sorted the used head and found the name
-byte11:
+byte11:I sorted then used uniq with -c parameter then again sorted and found the most used name
 
